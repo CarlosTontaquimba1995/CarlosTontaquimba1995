@@ -1,6 +1,6 @@
 # ¡Welcome!, I'm **Carlos Tontaquimba** 👋
 
-### Full-Stack Developer • Microservices Enthusiast • Cloud-Native Lover
+### Full-Stack Developer • Microservices Enthusiast
 
 I’m a systems engineer and full-stack developer focused on scalable **microservice** & **micro-frontend** architectures.  
 My toolbelt spans Java / Spring Boot, PHP / Laravel, JavaScript & TypeScript with Angular and NestJS.  
