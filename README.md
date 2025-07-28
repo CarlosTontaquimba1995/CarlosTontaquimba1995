@@ -12,7 +12,7 @@ I build robust REST APIs, craft modern UIs, and orchestrate event-driven flows w
 - 🌱 **Continuous learner** – always chasing better patterns and cleaner code.
 - 🛠️ **DevOps mindset** – Docker, AWS Lambda & Red Hat for smooth deployments.
 - 🤝 **Team player** – Git-flow advocate and agile enthusiast.
-- 🌎 **Languages**: Spanish (native), English (B1) & Kichwa (conversational).
+- 🌎 **Languages**: Spanish (native), English (B1) & Kichwa (native).
 
 ---
 
