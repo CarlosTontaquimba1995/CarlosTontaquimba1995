@@ -57,10 +57,12 @@ I build robust REST APIs, craft modern UIs, and orchestrate event-driven flows w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=CarlosTontaquimba1995&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
