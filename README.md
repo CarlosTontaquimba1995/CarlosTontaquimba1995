@@ -1,4 +1,4 @@
-# ¡Hola!, soy **Carlos Tontaquimba** 👋
+# ¡Welcome!, I'm **Carlos Tontaquimba** 👋
 
 ### Full-Stack Developer • Microservices Enthusiast • Cloud-Native Lover
 
