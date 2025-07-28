@@ -4,14 +4,14 @@
 
 I’m a systems engineer and full-stack developer focused on scalable **microservice** & **micro-frontend** architectures.  
 My toolbelt spans Java / Spring Boot, PHP / Laravel, JavaScript & TypeScript with Angular and NestJS.  
-I build robust REST APIs, craft modern UIs, and orchestrate event-driven flows with **Kafka**【turn3file0†L12-L17】.
+I build robust REST APIs, craft modern UIs, and orchestrate event-driven flows with **Kafka**.
 
 ---
 
 ## 🧑‍💻 About Me
 - 🌱 **Continuous learner** – always chasing better patterns and cleaner code.
-- 🛠️ **DevOps mindset** – Docker, AWS Lambda & Red Hat for smooth deployments【turn3file1†L23-L27】【turn3file0†L89-L93】.
-- 🤝 **Team player** – Git-flow advocate and agile enthusiast【turn3file0†L84-L88】.
+- 🛠️ **DevOps mindset** – Docker, AWS Lambda & Red Hat for smooth deployments.
+- 🤝 **Team player** – Git-flow advocate and agile enthusiast.
 - 🌎 **Languages**: Spanish (native), English (B1) & Kichwa (conversational).
 
 ---
@@ -19,10 +19,10 @@ I build robust REST APIs, craft modern UIs, and orchestrate event-driven flows w
 ## 🚀 Professional Snapshot
 | Period | Role & Organisation | Key Highlights |
 |--------|--------------------|----------------|
-| **Feb 2024 – Jun 2025** | *Expert Developer* – Council of the Judiciary | • Designed microservices in **Spring Boot** & **Spring Cloud** for high-traffic judicial apps.<br>• Led Angular 17 UI revamp ensuring responsive UX【turn3file0†L78-L83】【turn3file2†L1-L5】 |
-| **Aug 2023 – Dec 2023** | *Analyst II* – Ministry of Social Inclusion | Maintained national convenios & comités platforms (Angular + microservices)【turn3file0†L96-L104】 |
-| **Feb 2023 – Jul 2023** | *Analyst II* – Secretariat of Intercultural Bilingual Education | Drove feature delivery, unit & integration testing on KIPUJEA & CESLI systems【turn3file0†L106-L112】 |
-| *Prev.* | *Backend Associate* – TRADE EC | Serverless micro-APIs on **AWS Lambda**, migrated Zuul ➜ Amazon API Gateway【turn3file1†L21-L29】 |
+| **Feb 2024 – Jun 2025** | *Expert Developer* – Council of the Judiciary | • Designed microservices in **Spring Boot** & **Spring Cloud** for high-traffic judicial apps.<br>• Led Angular 17 UI revamp ensuring responsive UX |
+| **Aug 2023 – Dec 2023** | *Analyst II* – Ministry of Social Inclusion | Maintained national convenios & comités platforms (Angular + microservices) |
+| **Feb 2023 – Jul 2023** | *Analyst II* – Secretariat of Intercultural Bilingual Education | Drove feature delivery, unit & integration testing on KIPUJEA & CESLI systems |
+| *Prev.* | *Backend Associate* – TRADE EC | Serverless micro-APIs on **AWS Lambda**, migrated Zuul ➜ Amazon API Gateway |
 
 *(See CV for full timeline.)*
 
