@@ -24,8 +24,7 @@ I build robust REST APIs, craft modern UIs, and orchestrate event-driven flows w
 | **Feb 2023 – Jul 2023** | *Analyst II* – Secretariat of Intercultural Bilingual Education | Drove feature delivery, unit & integration testing on KIPUJEA & CESLI systems |
 | *Prev.* | *Backend Associate* – TRADE EC | Serverless micro-APIs on **AWS Lambda**, migrated Zuul ➜ Amazon API Gateway |
 
-*(See CV for full timeline.)*
-![See CV for full timeline.](https://drive.google.com/file/d/15ZSH_NseHDJBWMVY-JZ5f7CJRHhE-lLO/view?usp=sharing)
+*[See CV for full timeline.](https://drive.google.com/file/d/15ZSH_NseHDJBWMVY-JZ5f7CJRHhE-lLO/view?usp=sharing).*
 
 ---
 
