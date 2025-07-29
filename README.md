@@ -25,6 +25,7 @@ I build robust REST APIs, craft modern UIs, and orchestrate event-driven flows w
 | *Prev.* | *Backend Associate* – TRADE EC | Serverless micro-APIs on **AWS Lambda**, migrated Zuul ➜ Amazon API Gateway |
 
 *(See CV for full timeline.)*
+![See CV for full timeline.](https://drive.google.com/file/d/15ZSH_NseHDJBWMVY-JZ5f7CJRHhE-lLO/view?usp=sharing)
 
 ---
 
