@@ -71,10 +71,7 @@ I love writing about productivity, clean code & cloud-native patterns.
 ## 🔗 Find Me Online
 | | |
 |---|---|
-| 🌐 Website | **[your-site.com](https://your-site.com)** |
-| 💼 LinkedIn | **[linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)** |
-| 🐦 Twitter | **[@your_twitter](https://twitter.com/your_twitter)** |
-| ✍️ Blog | **[dev.to/USERNAME](https://dev.to/USERNAME)** |
+| 💼 LinkedIn | **[linkedin.com/in/USERNAME](https://www.linkedin.com/in/carlos-tontaquimba-5176291ab)** |
 
 ---
 
